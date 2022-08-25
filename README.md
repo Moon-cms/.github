@@ -1,2 +1,3 @@
-# .github
-Github profile README.md for Moon CMS
+Moon CMS
+
+A simple modular CMS made with Svelte & Express
